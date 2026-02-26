@@ -1,0 +1,16 @@
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\bin\Debug\net8.0-windows\Review_Q2.exe
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\bin\Debug\net8.0-windows\Review_Q2.deps.json
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\bin\Debug\net8.0-windows\Review_Q2.runtimeconfig.json
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\bin\Debug\net8.0-windows\Review_Q2.dll
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\bin\Debug\net8.0-windows\Review_Q2.pdb
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.Form1.resources
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.csproj.GenerateResource.cache
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.AssemblyInfoInputs.cache
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.AssemblyInfo.cs
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.dll
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\refint\Review_Q2.dll
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.pdb
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\Review_Q2.genruntimeconfig.cache
+C:\Users\m303\Documents\GitHub\114_2_C_Sharp\115_02_06\Review_Q2\Review_Q2\obj\Debug\net8.0-windows\ref\Review_Q2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reveiw_Q2/1.0.0": {
+        "runtime": {
+          "Reveiw_Q2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reveiw_Q2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

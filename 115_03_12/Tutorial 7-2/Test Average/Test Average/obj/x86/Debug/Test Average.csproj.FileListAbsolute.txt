@@ -36,7 +36,3 @@ C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Ave
 C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
 C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
 C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
-C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe.config
-C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
-C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
-C:\Users\m303\Desktop\114_2_C_Sharp\115_03_12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe.config

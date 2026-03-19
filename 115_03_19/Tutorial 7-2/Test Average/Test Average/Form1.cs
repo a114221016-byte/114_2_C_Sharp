@@ -19,15 +19,23 @@ namespace Test_Average
         }
 
         // Average 方法接受一個 int 陣列參數
-        // 並回傳該陣列值的平均值。
-        private int Average(int[] scores)
+        // 並回傳該陣列值的平均值（四捨五入到小數點第一位）。
+        private double Average(int[] scores)
         {
-            int total = 0;
+            if (scores == null || scores.Length == 0)
+            {
+                return 0.0;
+            }
+
+            double total = 0;
             foreach (int score in scores)
             {
                 total += score;
             }
-            return (scores.Length > 0) ? total / scores.Length : 0;
+
+            double avg = total / scores.Length;
+            // 使用 MidpointRounding.AwayFromZero 做一般人習慣的四捨五入
+            return Math.Round(avg, 1, MidpointRounding.AwayFromZero);
         }
 
         // Highest 方法接受一個 int 陣列參數

@@ -42,100 +42,111 @@
             // 
             // averageScoreDescriptionLabel
             // 
-            this.averageScoreDescriptionLabel.AutoSize = true;
-            this.averageScoreDescriptionLabel.Location = new System.Drawing.Point(136, 106);
+            this.averageScoreDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.averageScoreDescriptionLabel.Location = new System.Drawing.Point(250, 130);
             this.averageScoreDescriptionLabel.Name = "averageScoreDescriptionLabel";
-            this.averageScoreDescriptionLabel.Size = new System.Drawing.Size(78, 13);
+            this.averageScoreDescriptionLabel.Size = new System.Drawing.Size(180, 36);
             this.averageScoreDescriptionLabel.TabIndex = 9;
-            this.averageScoreDescriptionLabel.Text = "Average Score";
+            this.averageScoreDescriptionLabel.Text = "平均分數";
+            this.averageScoreDescriptionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lowScoreDescriptionLabel
             // 
-            this.lowScoreDescriptionLabel.AutoSize = true;
-            this.lowScoreDescriptionLabel.Location = new System.Drawing.Point(142, 70);
+            this.lowScoreDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lowScoreDescriptionLabel.Location = new System.Drawing.Point(250, 80);
             this.lowScoreDescriptionLabel.Name = "lowScoreDescriptionLabel";
-            this.lowScoreDescriptionLabel.Size = new System.Drawing.Size(72, 13);
+            this.lowScoreDescriptionLabel.Size = new System.Drawing.Size(180, 36);
             this.lowScoreDescriptionLabel.TabIndex = 8;
-            this.lowScoreDescriptionLabel.Text = "Lowest Score";
+            this.lowScoreDescriptionLabel.Text = "最低分";
+            this.lowScoreDescriptionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // highScoreDescriptionLabel
             // 
-            this.highScoreDescriptionLabel.AutoSize = true;
-            this.highScoreDescriptionLabel.Location = new System.Drawing.Point(140, 35);
+            this.highScoreDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.highScoreDescriptionLabel.Location = new System.Drawing.Point(250, 30);
             this.highScoreDescriptionLabel.Name = "highScoreDescriptionLabel";
-            this.highScoreDescriptionLabel.Size = new System.Drawing.Size(74, 13);
+            this.highScoreDescriptionLabel.Size = new System.Drawing.Size(180, 36);
             this.highScoreDescriptionLabel.TabIndex = 7;
-            this.highScoreDescriptionLabel.Text = "Highest Score";
+            this.highScoreDescriptionLabel.Text = "最高分";
+            this.highScoreDescriptionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // testScoresListBox
             // 
+            this.testScoresListBox.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.testScoresListBox.FormattingEnabled = true;
-            this.testScoresListBox.Location = new System.Drawing.Point(12, 29);
+            this.testScoresListBox.ItemHeight = 40;
+            this.testScoresListBox.Location = new System.Drawing.Point(30, 60);
             this.testScoresListBox.Name = "testScoresListBox";
-            this.testScoresListBox.Size = new System.Drawing.Size(120, 95);
+            this.testScoresListBox.Size = new System.Drawing.Size(190, 124);
             this.testScoresListBox.TabIndex = 6;
             // 
             // testScoresDescriptionLabel
             // 
-            this.testScoresDescriptionLabel.AutoSize = true;
-            this.testScoresDescriptionLabel.Location = new System.Drawing.Point(12, 13);
+            this.testScoresDescriptionLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.testScoresDescriptionLabel.Location = new System.Drawing.Point(30, 20);
             this.testScoresDescriptionLabel.Name = "testScoresDescriptionLabel";
-            this.testScoresDescriptionLabel.Size = new System.Drawing.Size(64, 13);
+            this.testScoresDescriptionLabel.Size = new System.Drawing.Size(190, 36);
             this.testScoresDescriptionLabel.TabIndex = 5;
-            this.testScoresDescriptionLabel.Text = "Test Scores";
+            this.testScoresDescriptionLabel.Text = "測驗分數";
+            this.testScoresDescriptionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // highScoreLabel
             // 
             this.highScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.highScoreLabel.Location = new System.Drawing.Point(218, 29);
+            this.highScoreLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.highScoreLabel.Location = new System.Drawing.Point(440, 30);
             this.highScoreLabel.Name = "highScoreLabel";
-            this.highScoreLabel.Size = new System.Drawing.Size(100, 23);
+            this.highScoreLabel.Size = new System.Drawing.Size(140, 36);
             this.highScoreLabel.TabIndex = 10;
             this.highScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lowScoreLabel
             // 
             this.lowScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lowScoreLabel.Location = new System.Drawing.Point(218, 65);
+            this.lowScoreLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lowScoreLabel.Location = new System.Drawing.Point(440, 80);
             this.lowScoreLabel.Name = "lowScoreLabel";
-            this.lowScoreLabel.Size = new System.Drawing.Size(100, 23);
+            this.lowScoreLabel.Size = new System.Drawing.Size(140, 36);
             this.lowScoreLabel.TabIndex = 11;
             this.lowScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // averageScoreLabel
             // 
             this.averageScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.averageScoreLabel.Location = new System.Drawing.Point(218, 101);
+            this.averageScoreLabel.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.averageScoreLabel.Location = new System.Drawing.Point(440, 130);
             this.averageScoreLabel.Name = "averageScoreLabel";
-            this.averageScoreLabel.Size = new System.Drawing.Size(100, 23);
+            this.averageScoreLabel.Size = new System.Drawing.Size(140, 36);
             this.averageScoreLabel.TabIndex = 12;
             this.averageScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // getScoresButton
             // 
-            this.getScoresButton.Location = new System.Drawing.Point(90, 149);
+            this.getScoresButton.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.getScoresButton.Location = new System.Drawing.Point(113, 240);
             this.getScoresButton.Name = "getScoresButton";
-            this.getScoresButton.Size = new System.Drawing.Size(75, 23);
+            this.getScoresButton.Size = new System.Drawing.Size(160, 51);
             this.getScoresButton.TabIndex = 13;
-            this.getScoresButton.Text = "Get Scores";
+            this.getScoresButton.Text = "取得分數";
             this.getScoresButton.UseVisualStyleBackColor = true;
             this.getScoresButton.Click += new System.EventHandler(this.getScoresButton_Click);
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(171, 149);
+            this.exitButton.Font = new System.Drawing.Font("微軟正黑體", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.exitButton.Location = new System.Drawing.Point(350, 240);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.Size = new System.Drawing.Size(120, 51);
             this.exitButton.TabIndex = 14;
-            this.exitButton.Text = "Exit";
+            this.exitButton.Text = "離開";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(336, 187);
+            this.ClientSize = new System.Drawing.Size(622, 311);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getScoresButton);
             this.Controls.Add(this.averageScoreLabel);
@@ -147,9 +158,9 @@
             this.Controls.Add(this.testScoresListBox);
             this.Controls.Add(this.testScoresDescriptionLabel);
             this.Name = "Form1";
-            this.Text = "Test Average";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "成績平均";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

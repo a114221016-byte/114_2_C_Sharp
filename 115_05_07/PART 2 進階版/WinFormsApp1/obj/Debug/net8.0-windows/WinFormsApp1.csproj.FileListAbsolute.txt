@@ -1,0 +1,64 @@
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\m303\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_05_07\WinFormsApp1 - 複製\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\m303\Desktop\115_05_07\PART 2 進階版\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

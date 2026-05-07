@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\m303\\desktop\\115_05_07\\part 2 \u9032\u968E\u7248\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\m303\\desktop\\115_05_07\\part 2 \u9032\u968E\u7248\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB5C48A1-083A-44C6-8D3C-B88A8942FDDE}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAwwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:37:03.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:27:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\115_05_07\\PART 2 \u9032\u968E\u7248\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\115_05_07\\WinFormsApp1 - \u8907\u88FD\\WinFormsApp1\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\WinFormsApp1 - \u8907\u88FD\\WinFormsApp1\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:21:26.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

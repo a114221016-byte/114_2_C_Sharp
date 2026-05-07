@@ -1,0 +1,4 @@
+balance=1511
+totalDeposited=1010
+totalSpins=7
+winCount=5
